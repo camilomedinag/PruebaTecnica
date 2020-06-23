@@ -14,7 +14,7 @@ curl --location --request POST 'http://127.0.0.1:5000/maximo_cuadrado' \
 0 0 0 0 
 1 0 0 0 '
 
-curl --location --request POST 'http://127.0.0.1:5000/maximo_cuadrado' \
+curl --location --request POST 'http://127.0.0.1:5000/iterador_celdas_libres' \
 --header 'Content-Type: text/plain' \
 --data-raw \
 '1 2
